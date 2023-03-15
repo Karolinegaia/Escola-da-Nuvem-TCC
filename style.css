@@ -4,3 +4,7 @@ img {
     width: auto;
     height: auto;
 }
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
