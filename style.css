@@ -1,10 +1,30 @@
-img {
-    max-width:200px;
-    max-height:210px;
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    max-width: 100px;
+    max-height: 100px;
     width: auto;
     height: auto;
 }
 
-body{
-    font-family: 'Roboto', sans-serif;
+.bg-navbar {
+    background-color: #e3f2fd;
+}
+
+.container {
+    padding-bottom: 150px;
+}
+
+.user-data {
+    padding-top: 90px;
+}
+
+hr {
+    margin-top: 100px;
+}
+
+card mb-3 {
+    padding: 5%;
 }
