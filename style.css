@@ -3,12 +3,16 @@ body{
     background-color: #e3f2fd;
 }
 
+.navbar {
+    padding: 0 5% 0 5%;
+}
+
 hr {
     margin-top: 100px;
 }
 
 footer {
-    background-color: #282c34;
+    background-color: #F8F9FA;
     padding: 5%;
 }
 
@@ -48,6 +52,5 @@ li {
 }
 
 #footer-text {
-    color: #fff;
     text-align:center;
 }
